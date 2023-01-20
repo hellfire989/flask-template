@@ -14,7 +14,7 @@ Open any editor of your choosing, or just a plain CMD if you some how don't have
 pip install -r requirements.txt
 ```
 
-**Lastly, open a terminal on it's own or one built into your browser, and run the final command:**
+**Lastly, open a terminal on it's own or one built into your IDE, ensure you're in the correct folder, and run the final command:**
 ```
 python app.py
 ```
